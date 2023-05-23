@@ -1,0 +1,2 @@
+# com.termux
+termux-home
